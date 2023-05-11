@@ -10,4 +10,5 @@ Deforestation is large_scale removal of trees from forests (or other lands) for 
 * Soil Erosion.
 
 ## Forest loss and damage is the cause of around 10% of global warming.
+![alt text](https://github.com/KelxSavage/Deforestation-Project/blob/main/infographic_small.png "Causes of Deforestation")
 

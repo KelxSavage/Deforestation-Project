@@ -1,7 +1,7 @@
 ![alt text](https://github.com/KelxSavage/Deforestation-Project/blob/main/ForestQuery_deforestation.png)
 # INTRODUCTION
 ## What is Deforestation ?
-Deforestation is large_scale removal of trees from forests (or other lands) for the facilitation of human activities
+Deforestation is the large scale removal of trees from forests (or other lands) for the facilitation of human activities
 
 ## Brief
 ForestQuery is on a mission to combat deforestation around the world and to raise awareness 
